@@ -24,8 +24,8 @@ The goal is to replicate how IT support teams diagnose, document, and resolve us
 
 ###  Scenario 1 — Network Connectivity Issue
 
-User was unable to access the internet due to a network configuration issue. Connectivity was restored after identifying and resolving the underlying adapter-related problem.
-
+- [Scenario 1 — Network Connectivity Issue](./documentation/scenario1.md)
+  
 ---
 
 ###  Scenario 2 — User Authentication Failure
