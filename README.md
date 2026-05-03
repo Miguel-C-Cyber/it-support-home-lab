@@ -63,17 +63,19 @@ User experienced working network connectivity but was unable to access websites 
 ##  Repository Structure
 
 ---
+
 IT-Support-Home-Lab/
-├── README.md
-├── documentation/
-│ ├── scenario1.md
-│ ├── scenario2.md
-│ ├── scenario3.md
-├── screenshots/
-│ ├── setup/
-│ ├── scenario1/
-│ ├── scenario2/
-│ ├── scenario3/
+
+README.md
+documentation/
+scenario1.md
+scenario2.md
+scenario3.md
+screenshots/
+setup/
+scenario1/
+scenario2/
+scenario3/
 
 ---
 
