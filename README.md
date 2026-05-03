@@ -61,3 +61,37 @@ User experienced working network connectivity but was unable to access websites 
 ---
 
 ##  Repository Structure
+IT-Support-Home-Lab/
+├── README.md
+├── documentation/
+│ ├── scenario1.md
+│ ├── scenario2.md
+│ ├── scenario3.md
+├── screenshots/
+│ ├── scenario1/
+│ ├── scenario2/
+│ ├── scenario3/
+
+---
+
+## Evidence & Documentation
+
+Each scenario includes:
+
+- Incident description (ticket-style format)  
+- Step-by-step troubleshooting process  
+- Root cause analysis  
+- Resolution steps  
+- Verification of fix  
+- Supporting screenshots  
+
+---
+
+##  Outcome
+
+This project demonstrates the ability to:
+
+- Diagnose and resolve common IT support issues  
+- Apply structured troubleshooting methodologies  
+- Document technical incidents in a professional format  
+- Simulate real-world help desk workflows  
