@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project simulates real-world IT Help Desk and Tier 1 support scenarios in a controlled **:contentReference[oaicite:1]{index=1}** environment.
+This project simulates real-world IT Help Desk and Tier 1 support scenarios in a controlled  environment.
 
 It demonstrates practical troubleshooting workflows, incident documentation, and system administration fundamentals used in enterprise IT support environments.
 
@@ -46,7 +46,7 @@ User experienced working network connectivity but was unable to access websites 
 - Network configuration utilities  
 - User account management tools  
 - File Explorer and system settings  
-- Built-in Windows troubleshooting tools in **:contentReference[oaicite:2]{index=2}**
+- Built-in Windows troubleshooting tools (Network Troubleshooter, Control Panel, Settings, Event Viewer)
 
 ---
 
