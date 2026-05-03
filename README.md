@@ -27,15 +27,14 @@ The goal is to replicate how IT support teams diagnose, document, and resolve us
   
 ---
 
-###  Scenario 2 — User Authentication Failure
+###  [Scenario 2 — User Authentication Failure](./documentation/scenario2.md)
 
-User was unable to log into the system due to authentication-related issues. Troubleshooting included validation of credentials, user accounts, and system access controls.
 
 ---
 
-###  Scenario 3 — DNS Resolution Failure
+###  [Scenario 3 — DNS Resolution Failure](./documentation/scenario3.md)
 
-User experienced working network connectivity but was unable to access websites due to DNS resolution issues. The issue was resolved by correcting DNS configuration settings.
+
 
 ---
 
