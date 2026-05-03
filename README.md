@@ -61,6 +61,7 @@ User experienced working network connectivity but was unable to access websites 
 ---
 
 ##  Repository Structure
+
 IT-Support-Home-Lab/
 ├── README.md
 ├── documentation/
@@ -74,7 +75,7 @@ IT-Support-Home-Lab/
 
 ---
 
-## Evidence & Documentation
+##  Evidence & Documentation
 
 Each scenario includes:
 
