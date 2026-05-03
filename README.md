@@ -22,9 +22,8 @@ The goal is to replicate how IT support teams diagnose, document, and resolve us
 
 ##  Scenarios Covered
 
-###  Scenario 1 — Network Connectivity Issue
+###  [Scenario 1 — Network Connectivity Issue](./documentation/scenario1.md)
 
-- [Scenario 1 — Network Connectivity Issue](./documentation/scenario1.md)
   
 ---
 
