@@ -1,30 +1,63 @@
-# IT Support Home Lab
+# IT Support Home Lab — Help Desk Simulation Portfolio
 
-## Overview
-This project simulates real-world IT support scenarios including network troubleshooting, user authentication issues, and DNS resolution failures.
+##  Overview
 
-## Scenarios Covered
-- Scenario 1: No Internet Connectivity
-- Scenario 2: User Login Failure
-- Scenario 3: DNS Resolution Failure
+This project simulates real-world IT Help Desk and Tier 1 support scenarios in a controlled **:contentReference[oaicite:1]{index=1}** environment.
 
-## Tools Used
-- Windows 10
-- Command Prompt
-- Network Configuration Tools
+It demonstrates practical troubleshooting workflows, incident documentation, and system administration fundamentals used in enterprise IT support environments.
 
-## Skills Demonstrated
-- Network troubleshooting
-- User account diagnostics
-- DNS and connectivity analysis
-- System-level problem solving
+The goal is to replicate how IT support teams diagnose, document, and resolve user-reported technical issues.
 
-## Documentation
-Each scenario includes:
-- Problem description
-- Troubleshooting steps
-- Root cause analysis
-- Resolution
-- Verification
-- Screenshots of evidence
+---
 
+##  Objectives
+
+- Simulate common IT support tickets in a realistic environment  
+- Apply structured troubleshooting methodology (identify → diagnose → resolve → verify)  
+- Document incidents in a professional help desk format  
+- Demonstrate foundational networking, authentication, and DNS troubleshooting skills  
+- Build a portfolio-ready IT support case study for job applications  
+
+---
+
+##  Scenarios Covered
+
+###  Scenario 1 — Network Connectivity Issue
+
+User was unable to access the internet due to a network configuration issue. Connectivity was restored after identifying and resolving the underlying adapter-related problem.
+
+---
+
+###  Scenario 2 — User Authentication Failure
+
+User was unable to log into the system due to authentication-related issues. Troubleshooting included validation of credentials, user accounts, and system access controls.
+
+---
+
+###  Scenario 3 — DNS Resolution Failure
+
+User experienced working network connectivity but was unable to access websites due to DNS resolution issues. The issue was resolved by correcting DNS configuration settings.
+
+---
+
+##  Tools & Technologies
+
+- Windows Command Prompt (`ipconfig`, `ping`)  
+- Network configuration utilities  
+- User account management tools  
+- File Explorer and system settings  
+- Built-in Windows troubleshooting tools in **:contentReference[oaicite:2]{index=2}**
+
+---
+
+##  Skills Demonstrated
+
+- Network connectivity troubleshooting  
+- DNS and name resolution analysis  
+- User authentication and access troubleshooting  
+- Structured incident investigation and resolution  
+- Technical documentation and IT ticket-style reporting  
+
+---
+
+##  Repository Structure
