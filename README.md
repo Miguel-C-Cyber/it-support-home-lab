@@ -1,4 +1,4 @@
-# IT Support Home Lab — Help Desk Simulation Portfolio
+# IT Support Home Lab — Help Desk Simulation 
 
 ##  Overview
 
